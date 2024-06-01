@@ -1,10 +1,8 @@
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://github.com/Sandeep-D-S)
 <h1 align="center">Hi 👋, I'm Sandeep D S</h1>
-<h3 align="center">A passionate full stack developer and also a ML enthusiast</h3>
+<h3 align="center">A passionate tech enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m currently learning **JavaScript, ML, Databases**
 
 - 📝 I regularly write tech articles on [https://www.linkedin.com/in/sandeep-d-s-043962256/recent-activity/all/](https://www.linkedin.com/in/sandeep-d-s-043962256/recent-activity/all/)
 
