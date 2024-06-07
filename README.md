@@ -6,7 +6,7 @@
 
 - 📝 I regularly write tech articles on [https://www.linkedin.com/in/sandeep-d-s-043962256/recent-activity/all/](https://www.linkedin.com/in/sandeep-d-s-043962256/recent-activity/all/)
 
-- 💬 Ask me about **C, C++, Flutter & Dart, SQL, HTML, CSS**
+- 💬 Ask me about **C, C++, Java, Flutter & Dart, SQL, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **sandeepds7273@gmail.com**
 
